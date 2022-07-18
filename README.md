@@ -1,1 +1,2 @@
-# Example of creating a Github repository. 
+# Example of creating a Github repository.
+## This is great to explore. 
