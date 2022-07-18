@@ -1,1 +1,1 @@
-# Github101
+# Example of creating a Github repository. 
